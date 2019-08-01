@@ -1,5 +1,5 @@
 # Me
-<img src="https://github.com/DeVo225/thomasdevuono/blob/master/images/tom.jpg" height="256" width="256">
+<img src="images/tom.jpg" height="256" width="256">
 
 # Work
 
