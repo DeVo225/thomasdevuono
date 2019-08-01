@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+# Work
 
-You can use the [editor on GitHub](https://github.com/DeVo225/thomasdevuono.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I currently work as an Account Manager at [Lickability](https://lickability.com), a detail-oriented studio in New York City building delightful apps for happy clients. If you are in need of any help with mobile app development or you have a great app idea you'd like to turn into reality, [let's talk!](tom@lickability.net)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
