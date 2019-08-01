@@ -1,4 +1,3 @@
-# Me
 <img src="images/tom(small).jpg" height="256" width="256">
 
 # Work
