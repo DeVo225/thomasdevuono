@@ -1,5 +1,5 @@
 # Me
-![OH IT'S ME](images/tom.jpg)
+![OH IT'S ME](images/tom(small).jpg)
 
 # Work
 
