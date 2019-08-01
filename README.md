@@ -1,5 +1,5 @@
 # Me
-![OH IT'S ME](images/tom(small).jpg)
+<img src="https://github.com/DeVo225/thomasdevuono/blob/master/images/tom.jpg" height="256" width="256">
 
 # Work
 
