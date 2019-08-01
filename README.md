@@ -7,14 +7,14 @@ I currently work as an Account Manager at [Lickability](https://lickability.com)
 
 # School
 
-NJIT - Master of Science, Engineering Management 2019
+NJIT - Master of Science, Engineering Management 2019<br/>
 NJIT - Bachelor of Science, Mecanical Engineering 2014
 
 # Social
 
 [Twitter](https://twitter.com/ThomasDeVuono)<br/>
 [Facebook](https://www.facebook.com/thomasdevuono)<br/>
-[LinkedIn](https://www.linkedin.com/in/thomas-devuono-7139417a/)<br/>
+[LinkedIn](https://www.linkedin.com/in/thomas-devuono-7139417a/)
 
 # Some things I Like
 
