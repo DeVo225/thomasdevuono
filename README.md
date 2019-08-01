@@ -1,5 +1,5 @@
 # Me
-<img src="images/tom.jpg" height="256" width="256">
+<img src="images/tom(small).jpg" height="256" width="256">
 
 # Work
 
